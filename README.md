@@ -150,6 +150,13 @@ See the [contribution docs](https://docs.bracketapp.nl/docs/community/contributi
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/MaxRickettsUy">
+            <img src="https://avatars.githubusercontent.com/u/22103252?v=4" width="100;" alt="MaxRickettsUy"/>
+            <br />
+            <sub><b>Max Ricketts-Uy</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/evroon">
             <img src="https://avatars.githubusercontent.com/u/11857441?v=4" width="100;" alt="evroon"/>
             <br />
@@ -175,13 +182,6 @@ See the [contribution docs](https://docs.bracketapp.nl/docs/community/contributi
             <img src="https://avatars.githubusercontent.com/u/13609136?v=4" width="100;" alt="djpiper28"/>
             <br />
             <sub><b>Danny Piper</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/MaxRickettsUy">
-            <img src="https://avatars.githubusercontent.com/u/22103252?v=4" width="100;" alt="MaxRickettsUy"/>
-            <br />
-            <sub><b>Max Ricketts-Uy</b></sub>
         </a>
     </td>
     <td align="center">
